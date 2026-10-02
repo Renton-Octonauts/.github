@@ -2,4 +2,8 @@
 
 ## What we do
 
-well we don't know eather because or team captain does all the programming for some reason
+We program robots, for the renton high school robotics club.
+
+## Check us out here
+
+instagram.com/rentonrobotics
